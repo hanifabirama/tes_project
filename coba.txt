@@ -1,2 +1,4 @@
 ini adalah data coba untuk belajar github
 1. POIN A
+2. POIN B
+3. POIN C
